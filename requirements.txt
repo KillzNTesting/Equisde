@@ -1,0 +1,4 @@
+discord.py==1.7.3
+colorama==0.4.4
+rich==10.16.2
+psutil==5.9.0
